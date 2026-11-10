@@ -1,0 +1,8 @@
+# never commit model weights, environments or outputs
+.venv/
+__pycache__/
+*.pyc
+*.onnx
+weights/
+out/
+*.recipe.json
